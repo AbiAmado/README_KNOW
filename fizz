@@ -8,3 +8,4 @@ for i in range(1, 1001):
         print("Buzz")
     else:
         print(i)
+# Abi Amado, Angie Rojas, Emanuel Ladino, Luz Becerra.
